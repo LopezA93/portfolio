@@ -1,0 +1,99 @@
+@mixin hoverIconos ($color) {
+    color: $color;
+    transition: all .5s;
+    transform: scale(1.3)
+}
+
+.boxPresentacion {
+
+    padding-top: 2rem;
+    @media (min-width:1200px) {
+        max-width: 100% !important;
+    }
+
+    .boxImg {
+        text-align: center;
+        margin-top: 2rem;
+        padding-top: 2rem;
+
+        img {
+            text-align: center;
+        }
+    }
+
+
+    .boxPresentacionInfo {
+        background-color: #1976d2;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        width: 100%;
+        margin-top: -4px;
+        border-radius: 20px;
+        box-shadow: 2px 5px 5px 2px #000000b0;
+        p {
+            font-size: 1.35rem;
+            text-align: center;
+            color: white;
+            margin-right: 1.5rem;
+            margin-left: 2.5rem;
+            letter-spacing: 1px;
+            line-height: 40px;
+
+            .nombre {
+                font-size: 2.5rem;
+                font-weight: bolder;
+            }
+        }
+    }
+
+    .redes {
+        margin-top: 2rem;
+        text-align: center;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+
+        a {
+            text-decoration: none !important;
+
+            .MuiSvgIcon-root {
+                font-size: 2.5rem !important;
+                color: black;
+                
+            }
+
+            .iconoWA {
+                
+                &:hover {
+                    @include hoverIconos(#25d366);
+
+                }
+            }
+
+            .iconoMail {
+                &:hover {
+                    @include hoverIconos(rgb(9, 100, 93))
+                }
+            }
+
+
+            .iconoLI {
+
+                &:hover {
+                    @include hoverIconos(#0e76a8)
+                }
+            }
+
+
+            .iconoGH {
+                &:hover {
+
+
+                    @include hoverIconos(rgb(27, 27, 27))
+                }
+            }
+
+        }
+
+    }
+}

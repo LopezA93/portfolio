@@ -1,0 +1,24 @@
+[
+    {
+        "tittle": "Rowe MX",
+        "url": "http://restaurant.rowe.mx/",
+        "img": "rowe.png",
+        "skills": "Proyecto de Rowe Mx asociada a Restaurant.pe. Herramientas: HTML - CSS - SASS - JAVASCRIPT. \n Diseño Responsive.",
+        "id":1
+    },
+    {
+        "tittle": "Puzzles Bar",
+        "url": "https://puzzles-65bfd.web.app",
+        "img": "puzzles.png",
+        "skills": "E-Commerce utilizando REACT - SASS - FIREBASE y pasarela de pago de MercadoPago. \n Diseño Responsive.",
+        "id":2
+    },
+    {
+        "tittle": "Estudio Juridico Lopez - Perez Paredes & Asoc.",
+        "url": "https://lopeza93.github.io/ejlpp",
+        "img": "lpp.png",
+        "skills": "Proyecto del curso de CoderHouse de Desarrollo Web. Herramientas: HTML - CSS - SASS - BOOTSTRAPP. \n Diseño Responsive.",
+        "id":3
+    }
+    
+]
