@@ -24,7 +24,7 @@ const Contacto = () => {
                     <h1> Contacto</h1>
                 </Grid>
                 <Grid>
-                    <form  netfily className="form" >
+                    <form  netlify className="form" >
                         <label>Nombre completo</label>
                         <input type="text" required placeholder="Ingresa tu nombre" name="nombre" />
                         <label>Correo Electronico</label>
