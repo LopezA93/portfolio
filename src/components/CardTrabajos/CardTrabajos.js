@@ -13,7 +13,8 @@ export default function Trabajos(props) {
             <a className="proyectoCard" href={url} target="_blank" >
                 <Card sx={{ height: '300px', width: "400px" }} key={id}>
                     <CardCover>
-                        <img
+                        <img 
+                            
                             src={img}
                             alt={tittle}
                         />
