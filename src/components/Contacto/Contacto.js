@@ -24,13 +24,14 @@ const Contacto = () => {
                     <h1> Contacto</h1>
                 </Grid>
                 <Grid>
-                    <form  netlify className="form" >
+                    <form name="contact" method="post" className="form" >
+                        <input type="hidden" name="form-name" value="contact" />
                         <label>Nombre completo</label>
-                        <input type="text" required placeholder="Ingresa tu nombre" name="nombre" />
+                        <input type="text" required placeholder="Ingresa tu nombre" name="name" />
                         <label>Correo Electronico</label>
-                        <input type="email" required placeholder="Ingresa tu correo electronico" inamed="correo" />
+                        <input type="email" required placeholder="Ingresa tu correo electronico" name="correo" />
                         <label>Ingresa su mensaje</label>
-                        <textarea required placeholder="..." name="mensaje" />
+                        <textarea required placeholder="..." name="message" />
                         <Button type="submit" className="btnContacto" variant="contained" >Enviar</Button>
                     </form>
                 </Grid>
