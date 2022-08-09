@@ -14,11 +14,19 @@
         "id":2
     },
     {
+        "tittle": "Poacea - Estudio de dibujo y cinematografico",
+        "url": "https://poacea.000webhostapp.com/",
+        "img": "poacea.png",
+        "skills": "Proyecto del Poacea. Estudio de dibujo y cinematografia de Chile. Herramientas: REACT - SASS - BOOTSTRAPP. \n Diseño Responsive.",
+        "id":3
+    },
+    {
         "tittle": "Estudio Juridico Lopez - Perez Paredes & Asoc.",
         "url": "https://lopeza93.github.io/ejlpp",
         "img": "lpp.png",
         "skills": "Proyecto del curso de CoderHouse de Desarrollo Web. Herramientas: HTML - CSS - SASS - BOOTSTRAPP. \n Diseño Responsive.",
-        "id":3
+        "id":4
     }
+    
     
 ]
