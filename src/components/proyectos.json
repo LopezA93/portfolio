@@ -1,31 +1,47 @@
 [
     {
-        "tittle": "Rowe MX",
-        "url": "http://restaurant.rowe.mx/",
-        "img": "rowe.png",
-        "skills": "Proyecto de Rowe Mx asociada a Restaurant.pe. Herramientas: HTML - CSS - SASS - JAVASCRIPT. \n Diseño Responsive.",
+        "tittle": "API Puzzles",
+        "url": "https://github.com/LopezA93/puzzlesMongoDb",
+        "img": "api.png",
+        "skills": "API desarrollada con Node Js, Express,  y MongoDB",
+        
         "id":1
+    },
+    {
+        "tittle": "Front API Puzzles",
+        "url": "https://puzzlesmongodb.netlify.app",
+        "img": "api.png",
+        "skills": "Frontend desarrollado con ReactJs consumiendo la API de Puzzles",
+        
+        "id":2
     },
     {
         "tittle": "Puzzles Bar",
         "url": "https://puzzles-65bfd.web.app",
         "img": "puzzles.png",
         "skills": "E-Commerce utilizando REACT - SASS - FIREBASE y pasarela de pago de MercadoPago. \n Diseño Responsive.",
-        "id":2
+        "id":3
     },
     {
         "tittle": "Poacea - Estudio de dibujo y cinematografia",
         "url": "https://poacea.cl/",
         "img": "poacea.png",
         "skills": "Proyecto Poacea. Estudio de dibujo y cinematografia de Chile. Herramientas: REACT - SASS - BOOTSTRAPP. \n Diseño Responsive.",
-        "id":3
+        "id":4
     },
     {
         "tittle": "Estudio Juridico Lopez - Perez Paredes & Asoc.",
         "url": "https://lopeza93.github.io/ejlpp",
         "img": "lpp.png",
         "skills": "Proyecto del curso de CoderHouse de Desarrollo Web. Herramientas: HTML - CSS - SASS - BOOTSTRAPP. \n Diseño Responsive.",
-        "id":4
+        "id":5
+    },
+    {
+        "tittle": "Rowe MX",
+        "url": "http://restaurant.rowe.mx/",
+        "img": "rowe.png",
+        "skills": "Proyecto de Rowe Mx asociada a Restaurant.pe. Herramientas: HTML - CSS - SASS - JAVASCRIPT. \n Diseño Responsive.",
+        "id":6
     }
     
     
