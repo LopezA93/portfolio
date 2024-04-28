@@ -2,8 +2,8 @@
     {
         "tittle": "API Puzzles",
         "url": "https://github.com/LopezA93/puzzlesMongoDb",
-        "img": "api.png",
-        "skills": "API desarrollada con Node Js, Express,  y MongoDB",
+        "img": "api_portada.jpg",
+        "skills": "API desarrollada con Node Js, Express, y MongoDB, en el cual cuenta con un sistema de autenticación de admin y usuarios. Ademas de tener un CRUD de productos y categorias.",
         
         "id":1
     },
@@ -11,7 +11,7 @@
         "tittle": "Front API Puzzles",
         "url": "https://puzzlesmongodb.netlify.app",
         "img": "api.png",
-        "skills": "Frontend desarrollado con ReactJs consumiendo la API de Puzzles",
+        "skills": "Ecommerce desarrollado con ReactJs consumiendo la API de Puzzles desarrollada con Express JS.",
         
         "id":2
     },
@@ -19,29 +19,22 @@
         "tittle": "Puzzles Bar",
         "url": "https://puzzles-65bfd.web.app",
         "img": "puzzles.png",
-        "skills": "E-Commerce utilizando REACT - SASS - FIREBASE y pasarela de pago de MercadoPago. \n Diseño Responsive.",
+        "skills": "E-Commerce utilizando REACT - SASS - FIREBASE y pasarela de pago de MercadoPago. Ademas de tener un sistema de autenticación para el administrador.",
         "id":3
     },
     {
-        "tittle": "Poacea - Estudio de dibujo y cinematografia",
-        "url": "https://poacea.cl/",
-        "img": "poacea.png",
-        "skills": "Proyecto Poacea. Estudio de dibujo y cinematografia de Chile. Herramientas: REACT - SASS - BOOTSTRAPP. \n Diseño Responsive.",
+        "tittle": "Escribanía Bustamante Zambon",
+        "url": "https://escribaniabustamantezambon.com.ar/",
+        "img": "bz.png",
+        "skills": "Desarrollo landing page de la prestigiosa Escribanía Bustamante Zambon de la ciudad de Córdoba",
         "id":4
     },
     {
         "tittle": "Estudio Juridico Lopez - Perez Paredes & Asoc.",
         "url": "https://lopeza93.github.io/ejlpp",
         "img": "lpp.png",
-        "skills": "Proyecto del curso de CoderHouse de Desarrollo Web. Herramientas: HTML - CSS - SASS - BOOTSTRAPP. \n Diseño Responsive.",
+        "skills": "Desarrollo landing page del Estudio Juridico Lopez - Perez Paredes & Asoc. de la ciudad de Córdoba ",
         "id":5
-    },
-    {
-        "tittle": "Rowe MX",
-        "url": "http://restaurant.rowe.mx/",
-        "img": "rowe.png",
-        "skills": "Proyecto de Rowe Mx asociada a Restaurant.pe. Herramientas: HTML - CSS - SASS - JAVASCRIPT. \n Diseño Responsive.",
-        "id":6
     }
     
     
